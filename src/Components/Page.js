@@ -1,10 +1,10 @@
 import React from "react";
-import Card from './Card'
+import MainContent from './MainContent'
 
 export default function Page(){
     return(
         <div>
-            <Card />
+            <MainContent />
         </div>
     )
 }
