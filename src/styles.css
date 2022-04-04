@@ -3,13 +3,18 @@
     width: 319px;
 }
 
-
 .custom-card-body{
     background-color: #23252C;
+    width: 319px;
 }
 
-.custom-card-content{
+.custom-card-content-dark{
     background: #1A1B21;
+    width: 319px;
+}
+
+.custom-card-content-light{
+    background: #F5F5F5;
     width: 319px;
 }
 
@@ -18,8 +23,17 @@
     background: #161619;
 }
 
+.custom-card-footer-light{
+    width: 319px;
+    background: #D5D4D8;
+}
+
 .links-btn{
     width: 115px;
+}
+
+.links-btn2{
+    width: 260px;
 }
 
 .custom-h1{
@@ -36,6 +50,15 @@
     line-height: 15px;
     text-align: center;
     color: #F3BF99;
+}
+
+.custom-h5-light{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F47D27;
 }
 
 .custom-h6{

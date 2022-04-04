@@ -6,17 +6,16 @@ export default function Card2(){
         <div className="card custom-card-body shadow-sm">
             <img src = {profilepic} className = "card-img-top prof-pic" alt = "Profile picture"/>
 
-            <div className="card-body p-4 custom-card-content text-white">
+            <div className="card-body p-4 custom-card-content-dark text-white">
                 <h1 className="custom-h1 text-center">Laura Smith</h1>
                 <h5 className="custom-h5 text-center">Frontend Developer</h5>
                 <h6 className="custom-h6 text-center">laurasmith.website</h6>
 
                 <div className="d-flex justify-content-around pt-3 pb-3">
-                    <a href="" className="btn btn-light btn-sm links-btn"><i className="bi bi-envelope"/> Email</a>
-                    <a href="" className="btn btn-primary btn-sm links-btn"><i className="bi bi-linkedin"/> LinkedIn</a>
+                    <a href="" className="btn btn-light btn-sm links-btn2"><i className="bi bi-envelope"/> Email</a>
                 </div>
 
-                <div>
+                <div className="ps-2">
                     <h2 className="custom-h2">About</h2>
                     <p className="custom-p">I am a frontend developer with a particular interest in making things simple and automating
                         daily tasks. I try to keep up with security and best practices, and am always looking for
@@ -35,6 +34,7 @@ export default function Card2(){
                 <div className="d-flex justify-content-around">
                     <a href="" className="btn social-btn btn-sm"><i className="bi bi-github"/></a>
                     <a href="" className="btn social-btn btn-sm"><i className="bi bi-stack-overflow"/></a>
+                    <a href="" className="btn social-btn btn-sm"><i className="bi bi-linkedin"/></a>
                     <a href="" className="btn social-btn btn-sm"><i className="bi bi-twitter"/></a>
                     <a href="" className="btn social-btn btn-sm"><i className="bi bi-facebook"/></a>
                 </div>
