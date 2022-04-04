@@ -1,0 +1,63 @@
+.prof-pic{
+    height: 317px;
+    width: 317px;
+}
+
+.custom-card-body{
+    height: 716px;
+    width: 319px;
+}
+
+.custom-card-content{
+    background: #1A1B21;
+}
+
+.custom-card-footer{
+    height: 64px;
+    background: #161619;
+}
+
+.links-btn{
+    width: 115px;
+}
+
+.custom-h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.custom-h5{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+.custom-h6{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.custom-h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.custom-p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.social-btn{
+    background: #ffffff;
+}
