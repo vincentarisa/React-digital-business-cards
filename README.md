@@ -1,4 +1,4 @@
-# Personal Portfolio Website 
+# Digital Business Cards 
 ![GitHub](https://img.shields.io/github/license/juniordevske/Personal-Portfolio-Website?style=plastic)
 
 This is an example of a frontend design using react.  
